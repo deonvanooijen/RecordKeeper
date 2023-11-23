@@ -19,7 +19,7 @@ Record Keeper was created during an Udemy course by Vin Norman, in order to get 
 * Kotlin
 * Fragments
 * SharedPreferences
-* Bottom Navigationbar
+* Bottom Navigation Bar
 
 * ViewGroup
   
